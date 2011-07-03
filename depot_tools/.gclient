@@ -1,6 +1,7 @@
 solutions = [
-  { "name"        : "src",
-    "url"         : "http://src.chromium.org/svn/trunk/src",
+  { "name"        : "12.0.742.112",
+    "url"         : "http://src.chromium.org/svn/releases/12.0.742.112",
+    "deps_file"   : "DEPS",
     "custom_deps" : {
         "src/chrome/tools/test/reference_build/chrome": None,
         "src/chrome_frame/tools/test/reference_build/chrome": None,
